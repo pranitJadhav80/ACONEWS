@@ -4,18 +4,18 @@ AcoNews is a React-based news application that fetches the latest news articles 
 
 **Features**
 
-Fetches live news articles from the zNews.io API.
-Responsive design for mobile, tablet, and desktop views.
-Dynamic keyword search to filter news based on topics of interest.
-Deployed using Firebase Hosting for fast and secure delivery.
+1. Fetches live news articles from the zNews.io API.
+2. Responsive design for mobile, tablet, and desktop views.
+3. Dynamic keyword search to filter news based on topics of interest.
+4. Deployed using Firebase Hosting for fast and secure delivery.
 
 **Prerequisites**
 
 To run this project, you will need:
 
-Node.js and npm (Node Package Manager)
-A Firebase account for hosting
-A zNews.io API key to fetch the latest news
+1. Node.js and npm (Node Package Manager)
+2. A Firebase account for hosting
+3. A zNews.io API key to fetch the latest news
 
 **Installation**
 
