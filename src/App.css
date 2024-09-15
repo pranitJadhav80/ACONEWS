@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+  
+}
+
+.loading{
+  font-size: 80px;
+  text-align: center;
+  margin-top: 250px;
+  font-weight: bold;
+}
