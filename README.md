@@ -1,13 +1,16 @@
 **AcoNews**
+
 AcoNews is a React-based news application that fetches the latest news articles using the zNews.io API. The app features a responsive design with dynamic keyword search and is deployed on Firebase.
 
 **Features**
+
 Fetches live news articles from the zNews.io API.
 Responsive design for mobile, tablet, and desktop views.
 Dynamic keyword search to filter news based on topics of interest.
 Deployed using Firebase Hosting for fast and secure delivery.
 
 **Prerequisites**
+
 To run this project, you will need:
 
 Node.js and npm (Node Package Manager)
@@ -15,6 +18,7 @@ A Firebase account for hosting
 A zNews.io API key to fetch the latest news
 
 **Installation**
+
 1. Clone the Repository
 git clone https://github.com/your-username/aconews.git
 cd aconews
@@ -43,11 +47,13 @@ The app will run at http://localhost:3000.
 └── package.json            # Project metadata and dependencies
 
 **Key Components**
+
 NewsItem: Displays individual news articles.
 NewsList: Shows a list of news articles.
 SearchBar: Enables users to search news by keywords.
 
 **Deployment**
+
 1. Install Firebase CLI
 To deploy the project on Firebase, you need the Firebase CLI installed:
 npm install -g firebase-tools
@@ -67,6 +73,7 @@ firebase deploy
 Your app will be deployed, and Firebase will provide a live URL for your project.
 
 **Pushing Code to GitHub**
+
 1. Initialize a Git Repository
 If you haven't already, initialize your Git repository:
 git init
